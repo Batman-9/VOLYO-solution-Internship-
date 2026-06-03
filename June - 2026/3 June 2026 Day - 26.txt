@@ -1,0 +1,33 @@
+📅 **Date: 3 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 26: Introduction to SQLite**
+
+**Topic:**
+Introduction to SQLite and Embedded Database Systems
+
+**Learning Objectives:**
+
+* Understand what SQLite is and how it differs from server-based databases like MySQL and PostgreSQL
+* Learn the concept of embedded databases and their advantages
+* Explore real-world use cases where SQLite is commonly used
+* Understand file-based database architecture and storage mechanisms
+* Learn the basics of creating and managing databases using SQLite tools
+
+**Activities / Deliverables:**
+
+* Install SQLite 3 and DB Browser for SQLite
+* Explore the DB Browser interface and available features
+* Create a new SQLite database from scratch
+* Design and implement a simple ToDo App database with tables for tasks and categories
+* Insert sample records and perform basic CRUD operations
+* Document observations about SQLite's simplicity, portability, and performance
+* Compare SQLite with MySQL and PostgreSQL for small-scale applications
+
+**Tools / Tech:**
+
+* SQLite 3
+* DB Browser for SQLite
+
+━━━━━━━━━━━━━━━━━━━━━━
