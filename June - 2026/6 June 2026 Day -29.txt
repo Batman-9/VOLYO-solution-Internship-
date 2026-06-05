@@ -1,0 +1,34 @@
+📅 **Date: 6 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 29: Mini Project – Student Records Database**
+
+**Topic:**
+Design and Development of a Student Records Management Database
+
+**Learning Objectives:**
+
+* Apply database design concepts in a real-world mini project
+* Reinforce knowledge of schema design, relationships, and normalization
+* Understand the practical use of stored procedures, views, and triggers
+* Learn how database automation improves data management and integrity
+* Develop skills in designing scalable and maintainable database systems
+
+**Activities / Deliverables:**
+
+* Design the Student Records Database schema, including students, courses, enrollments, and marks tables
+* Create relationships using primary and foreign keys
+* Develop an **Enrollment Stored Procedure (SP)** to automate student course registration
+* Create a **Marks View** to display student performance and academic records in a simplified format
+* Implement a **Grade Trigger** that automatically assigns grades based on marks entered into the database
+* Insert sample student and course data for testing
+* Test all database objects and verify expected results
+* Document the database structure, workflow, and implementation process
+
+**Tools / Tech:**
+
+* MySQL 8
+* MySQL Workbench
+
+━━━━━━━━━━━━━━━━━━━━━━

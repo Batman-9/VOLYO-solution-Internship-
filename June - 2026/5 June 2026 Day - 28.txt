@@ -1,0 +1,36 @@
+📅 **Date: 5 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 28: Mini Project – Library Database (MySQL)**
+
+**Topic:**
+Design and Development of a Fully Normalized Library Management Database
+
+**Learning Objectives:**
+
+* Apply ER modeling concepts to a complete database project
+* Practice database normalization to eliminate redundancy and maintain data integrity
+* Strengthen SQL skills including table creation, relationships, constraints, and queries
+* Understand real-world database design for library management systems
+* Learn how different entities interact within a relational database environment
+
+**Activities / Deliverables:**
+
+* Design an ER Diagram for the Library Management System using Draw.io
+* Identify entities such as Books, Members, Issues, Returns, Authors, and Categories
+* Define attributes, primary keys, and foreign key relationships
+* Normalize the database schema up to 3NF to reduce redundancy
+* Create all database tables in MySQL Workbench with appropriate constraints
+* Insert sample data into each table for testing purposes
+* Develop SQL queries to manage book issuance, returns, and member records
+* Test database functionality and verify relationships between tables
+* Document the complete database design and implementation process
+
+**Tools / Tech:**
+
+* MySQL 8
+* MySQL Workbench
+* Draw.io
+
+━━━━━━━━━━━━━━━━━━━━━━
