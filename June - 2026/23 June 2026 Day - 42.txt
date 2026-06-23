@@ -1,0 +1,27 @@
+📅 **Date: 23 June 2026**
+
+**Day 42: HTTP Protocol & REST Concepts**
+
+**Topic:** HTTP Methods, Status Codes, and REST APIs
+
+**Learning Objectives:**
+
+* Understand HTTP methods: GET, POST, PUT, DELETE
+* Learn common status codes (200, 404, 500, etc.)
+* Understand the basics of REST APIs
+* Explore request-response communication
+
+**Activities / Deliverables:**
+
+* Use Browser DevTools to inspect HTTP requests and responses
+* Test public APIs using Postman
+* Observe different HTTP methods and status codes
+* Document findings and API responses
+
+**Tools / Tech:**
+
+* Postman
+* Browser DevTools
+* Public APIs
+
+━━━━━━━━━━━━━━━━━━━━━━
